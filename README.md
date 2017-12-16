@@ -1,2 +1,3 @@
 # 2048_jQuery
-Developpement du jeu 2048 en Jquery
+Rush de 2 jours 
+Creation d'un jeu 2048 en Jquery
